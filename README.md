@@ -1,2 +1,2 @@
 # The New Windows Terminal Profiles
-In this repository some customized profiles of Ubuntu, cmd, python, VS-code etc for The Windows Termianl are published. This profile even supports the option for custom image background formats like png, jpg, even the GIF.
+In this repository some customized profiles of Ubuntu, cmd, python, VS-code etc for The Windows Termianl are published. This profile even supports the option for custom image background formats like png, jpg, even the GIF .
